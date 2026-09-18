@@ -3,7 +3,25 @@
 
 ## Guides & tips
 
-- [Get Your Substack Recommended by AI](https://karozieminski.substack.com/p/get-cited-ai-search-google-ai-overviews)
+Published [Product with Attitude](https://karozieminski.substack.com/) articles about Substack growth, newsletter workflows, SEO, and AI search discoverability. Paid articles are marked; full content stays at the original source.
+
+### Substack growth and publication strategy
+
+- [Publication as Product: A Newsletter Growth Framework](https://karozieminski.substack.com/p/publication-as-product-newsletter-framework): **Paid article.** A product management approach to growing a Substack newsletter: define your reader and promise, interpret feedback, improve retention, and connect free content with paid membership value.
+- [A Substack Roadmap Based on 315 Reader Responses](https://karozieminski.substack.com/p/substack-roadmap-community-chat-notes-reels-survey-reader-behaviour): **Free article.** A Substack reader-research case study covering survey design, subscriber behavior, and decisions about newsletter content, Notes, and community features.
+- [Six Months of Substack Interaction Analysis](https://karozieminski.substack.com/p/i-analyzed-every-interaction-from): **Paid article.** An analysis of Product with Attitude's first six months on Substack. Examines newsletter interactions and growth patterns to help writers decide which publishing and community activities deserve their time.
+
+### Substack SEO and AI search visibility
+
+- [Get Your Substack Recommended by AI](https://karozieminski.substack.com/p/get-cited-ai-search-google-ai-overviews): **Free article.** A practical guide to Substack discoverability in ChatGPT, Claude, Perplexity, and Google AI Overviews. Covers original evidence, specific reader questions, relevant links, and measuring visits and subscriptions alongside AI citations.
+- [LinkSwap: Backlinks for Substack Writers](https://karozieminski.substack.com/p/linkswap-substack-backlinks-writers): **Free article.** Explains how Substack writers can find relevant editorial linking partners and manage backlink exchanges with LinkSwap. Covers the tool and access included with a paid Product with Attitude membership.
+- [What Is llms.txt? Does It Help AI Search Visibility?](https://karozieminski.substack.com/p/what-is-llms-txt-ai-search-visibility): **Free article.** An explainer for newsletter writers assessing AI discoverability advice and companion websites. Describes llms.txt, its differences from robots.txt and sitemaps, and the limits of claims about increased AI citations.
+
+### Newsletter research, websites, and community
+
+- [Cluing Review: Research Workflows for Newsletter Writers](https://karozieminski.substack.com/p/cluing-review-ai-agents-second-brain-2026): **Free article; some companion resources are paid.** A review of Cluing for Substack research, saved sources, and newsletter production. Explores knowledge management and connecting research context to AI tools through MCP.
+- [Accessible Runaway Subscribe Button](https://karozieminski.substack.com/p/runaway-subscribe-button): **Free article; source code and build prompt are paid.** A newsletter subscription experiment for an external website where you control the interface. Covers the design, accessibility considerations, and measurement of a playful signup button.
+- [Community Skill Swap Tuesday](https://karozieminski.substack.com/p/community-skill-swap-tuesday-ai-prompts-skills): **Free article.** Explains Product with Attitude's community program for sharing original, tested resources. Covers creator credit, permanent resource pages, and links back to contributors' Substack publications.
 
 ## Design prompts
 
